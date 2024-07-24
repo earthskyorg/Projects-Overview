@@ -1,6 +1,6 @@
-# Past Projects: ( Sports Betting / Casino / Dapp / Defi / NFT Marketplace / Trading / Auction [Solana / Ethereum / Binance - EVM / NEAR] )
+# Past Projects: ( Dapp / Dex / Defi / NFT Marketplace / Trading / Auction /  Ordinal / Rune / Casino [Bitcoin / Solana / Ethereum / Binance - BVM / EVM / NEAR] )
 
-As you can see here, I have built several blockchain projects including sports betting, casino, nft minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
+As you can see here, I have built several blockchain projects including sports betting, casino, rune etching, minting, staking, evolution/breeding features, ordinal raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
 <!-- <h3><u><strong><i>Shredded Apes</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
