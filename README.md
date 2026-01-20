@@ -108,21 +108,6 @@ Multiple Factor Rewards Staking program for 👩🏿‍🚀Astronaut/YAKU👨�
   - Dashboard: <a href="https://minxlabs.io">Minx Labs Dashboard</a>
   - Moved to this link: <a href="https://hub.yaku.ai">Yaku Hub</a>
 - Github repo: <a href="https://github.com/earthskyorg/Astronaut-NFT-Staking-death">Astronaut-NFT-Staking-death</a>
-
-<h3><u><strong><i>Kingdom of Dwarves - Staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
-
-<img align="right" width="300px" src="https://miro.medium.com/max/700/1*1WI72-a1PAi388br4HaN5w.png">
-
-- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="https://app.kingdomofdwarves.io/staking" target="_blank">KCRWN Staking</a>
-  - users can reward according to their NFT rare
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/earthskyorg/Dwarves-staking" target="_blank">Dwarves-staking</a>
-- KOD Lore: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
  
 <h3><u><strong><i>FLWR Token Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
