@@ -244,19 +244,6 @@ This is the traditional NFT staking project. Users stake their TAC NFTs and rece
 - Original Link: <a href="https://www.theapedao.finance" target="_blank">Buy $GBA|APe DAO</a>
 - Github repo: <a href="https://github.com/earthskyorg/Aurora-staking" target="_blank">Aurora-staking</a>
 
-<h3><u><strong><i>IconGirl</i></strong></u> &nbsp;(Ethereum)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/172245168-9c3f0996-a56b-447a-a45b-54fae3c88853.png">
-
-IconFashion is a women led Web3 project with 10,000 hand drawn, composable fashion NFTs. We celebrate women in the fashion and crypto space with special dress up experience, simulating a fashion styling game in the metaverse. In here, every woman can create their own iconic looks and rare outfits. Remeber, everyone can be a fashion icon!
-
-Now I am working on this project and we are releasing this in Apirl.
-
-- Testnet Link: <a href="https://2contract-test.icon.fashion" target="_blank">Icon Fashion</a>
-- Mainnet Link: <a href="https://icon.fashion" target="_blank">Icon Fashion</a>  (password: LoveIconGirl)
-- Github repo: <a href="https://github.com/earthskyorg/IconFashion" target="_blank">IconGirl</a>
-
 <h3><u><strong><i>97 Universe Minting Page</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
