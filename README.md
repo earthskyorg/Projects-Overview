@@ -230,25 +230,6 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - Project Structure:
     - Auction contract, Api, Front-end
 
-<h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" top="30" width="300px" src="https://pbs.twimg.com/media/FM33t89XsAEBI82?format=jpg&name=medium">
-
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 
-    - 1500-2000 / 1 WWV, 
-    - 1000-1499 / 1.5$WWV, 
-    - 600-999 / 2WWV, 
-    - 300-599 / 2.5 WWV, 
-    - 200-299 / 3WWV, 
-    - 51-199 / 4 WWV, 
-    - 1-50 / 5 WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/earthskyorg/WWV-NFT-Staking" target="_blank">WWV-NFT-Staking</a>
-
 <h3><u><strong><i>TAC NFT Staking</i></strong></u> &nbsp;(Aurora-EVM)</h3>
 <hr />
 
