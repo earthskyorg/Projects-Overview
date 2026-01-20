@@ -230,26 +230,6 @@ This is raffle/auction houses of tombstoned application on Solana network.
   - Project Structure:
     - Auction contract, Api, Front-end
 
-<h3><u><strong><i>Arena Launchpad</i></strong></u> &nbsp;(Cronos-EVM)</h3>
-<hr />
-
-<!-- <img align="right" width="300px" src="https://app.ebisusbay.com/img/collections/cronosnanas/banner.png"> -->
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170817948-05918b2a-9c26-46cc-97c7-b6cf1c287241.png">
-
-Nifty Nanas.<br />
-Nanas is a deflationary community project of the cutest Nanas on the Solana blockchain! <br/>
-This has Astronana and CoinFlip as well as Cro and Sol version for minting, staking, and launchpad.<br/>
-Now we are adding more features for Nanas.
-
-- Link: <a href="https://cronos-launchpad.herokuapp.com/" target="_blank">Cronos Launchpad</a>
-- Original Link: <a href="https://www.niftynanas.com/" target="_blank">Nifty Nanas</a>
-- Cro version: <a href="https://www.niftynanas.com/cro" target="_blank">Cro Nanas</a>
-- Sol version: <a href="https://www.niftynanas.com/sol" target="_blank">Sol Nanas</a>
-- Sol Staking: <a href="https://staking.niftynanas.com" target="_blank">Staking Nanas</a>
-  (Current Staking is updating.... so It's down now)
-  
-- Git repo: <a href="https://github.com/earthskyorg/cronos_nanas_launchpad" target="_blank">cronos_nanas_launchpad</a>
-
 <h3><u><strong><i>Wild West Verse - Staking</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
