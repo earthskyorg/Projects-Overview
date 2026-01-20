@@ -3,6 +3,17 @@
 As you can see here, I have built several blockchain projects including sports betting, casino, rune etching, minting, staking, evolution/breeding features, ordinal raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
 
+<h3><u><strong><i>Unbound Games</i></strong></u> &nbsp;(Shape)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+
+Fighters Unbound is a turn-based multiplayer game where players can interact with each other's avatars and create their own unique experiences. This implements managing and training Fighters Unbound and Hellraiser NFTs with integrated Strava fitness tracking and Shape Network blockchain support.
+
+- Demo: <a href="https://squad-unbound-games.vercel.app/">Fighters Unbound</a>
+- Live: <a href="https://www.unbound.games/">Unbound Games</a>
+- Github repo: <a href="https://github.com/earthskyorg/squad-unbound-games">squad-unbound-games</a>
+
 <h3><u><strong><i>Deezkits CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
@@ -13,7 +24,6 @@ This is coin-flip game on solana network. Payment is Sol and users can put their
 - Demo: <a href="https://deezkits-coinflip.vercel.app">Deezkits CoinFlip</a>
 - Live: <a href="https://coinflip.deezkits.com">Deezkits CoinFlip</a>
 - Github repo: <a href="https://github.com/earthskyorg/coin-flip-solkitty">coin-flip-solkitty</a>
-
 
 
 <h3><u><strong><i>Plunder The Void Mint Site</i></strong></u> &nbsp;(Avalanche)</h3>
