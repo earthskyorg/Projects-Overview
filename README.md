@@ -6,7 +6,7 @@ As you can see here, I have built several blockchain projects including sports b
 <h3><u><strong><i>Unbound Games</i></strong></u> &nbsp;(Shape)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/216958316-c79a05c7-fcf4-4cd6-acb6-2f086e90a6da.png">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/cba1b1dd-5d9d-4aef-b614-deabc785e98a" />
 
 Fighters Unbound is a turn-based multiplayer game where players can interact with each other's avatars and create their own unique experiences. This implements managing and training Fighters Unbound and Hellraiser NFTs with integrated Strava fitness tracking and Shape Network blockchain support.
 
