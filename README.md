@@ -2,8 +2,6 @@
 
 As you can see here, I have built several trending blockchain projects including sports betting, casino, rune etching, minting, staking, evolution/breeding features, ordinal raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
----
-
 ## 🤖 Highlight Projects
 
 <h3><u><strong><i>Unbound Games</i></strong></u> &nbsp;(Shape)</h3>
