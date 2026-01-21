@@ -219,7 +219,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://apex-staking.vercel.app">Apex Predator | Staking</a>
 - Github repo: <a href="https://github.com/earthskyorg/Apex-Raffle">Apex-Raffle</a>
 
-<h3><u><strong>Mausoleum</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>Mausoleum</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/170251173-46f1bc8c-fb86-48c9-ad8e-7af68c43f5e8.png">
