@@ -182,7 +182,7 @@ This is the raffle project that winners can receive the raffle NFT or winners ca
   - Staking: <a href="https://daku-reaper-staking.vercel.app" target="_blank">Daku-Reapers Staking</a>
 - Github repo: <a href="https://github.com/earthskyorg/EU-raffle" target="_blank">EU-raffle</a>
 
-<h3><u><strong>MetaKongz Raffle</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>MetaKongz Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🦴$BOOGA, 🍭$ZION, and $SOL.
