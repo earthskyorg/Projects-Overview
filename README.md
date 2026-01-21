@@ -138,7 +138,7 @@ Staking an SPL token "FLWR"
 - Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
 - Github repo : <a href="https://github.com/earthskyorg/FLWR-staking" target="_blank">FLWR-staking</a>
 
-<h3><u><strong>SOL Flowers | Raffle</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>SOL Flowers | Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/89365150/196169486-e51ed813-aa69-4318-ba04-cf010d488b4a.png">
@@ -161,7 +161,7 @@ This is the raffle project that winners can receive the raffle NFT by buying tic
 - Github repo: <a href="https://github.com/earthskyorg/raffle-auction-brains-">Sol flowers raffle</a>
 
 
-<h3><u><strong>EU(Eternal Underworld) Raffle</strong></u> &nbsp;(Solana)</h3>
+<h3><u><strong><i>EU(Eternal Underworld) Raffle</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 This is the raffle project that winners can receive the raffle NFT or winners can buy NFTs by half price by buying tickets. You can buy tickets by using 🍂$REAP and $SOL.
